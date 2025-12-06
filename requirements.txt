@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+lxml
+pandas
+matplotlib
+plotly
+selenium
+tqdm
